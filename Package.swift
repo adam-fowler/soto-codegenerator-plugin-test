@@ -13,8 +13,15 @@ let package = Package(
     targets: [
         .executableTarget(
             name: "SNSTest",
+            dependencies: [
+                "SotoSNS",
+                .product(name: "SotoCore", package: "soto-core")
+            ]
+        ),
+        .target(
+            name: "SotoSNS",
             dependencies: [.product(name: "SotoCore", package: "soto-core")],
             plugins: [.plugin(name: "SotoCodeGeneratorPlugin", package: "soto-codegenerator")]
-        ),
+        )
     ]
 )

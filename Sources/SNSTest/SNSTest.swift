@@ -1,4 +1,5 @@
 import SotoCore
+import SotoSNS
 
 @main struct Run {
     static func main() async throws {
