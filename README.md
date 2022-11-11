@@ -1,3 +1,3 @@
-# soto-codegenerator-plugin
+# soto-codegenerator-plugin-test
 
-A description of this package.
+Example of using Soto CodeGenerator build plugin.
