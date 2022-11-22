@@ -28,24 +28,6 @@
       }
     },
     {
-      "identity" : "soto-codegenerator",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/soto-project/soto-codegenerator",
-      "state" : {
-        "branch" : "feature/plugin",
-        "revision" : "5f8c17aaef086d3b5a6ef3f37432fa4caa6ec444"
-      }
-    },
-    {
-      "identity" : "soto-core",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/soto-project/soto-core.git",
-      "state" : {
-        "revision" : "f8a8db612a6bca7a05f69e975464f7a841f43617",
-        "version" : "6.1.3"
-      }
-    },
-    {
       "identity" : "soto-smithy",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/soto-project/soto-smithy.git",

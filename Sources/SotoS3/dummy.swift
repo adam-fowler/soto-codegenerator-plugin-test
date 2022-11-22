@@ -1,0 +1,1 @@
+// Autogenerate AWS service files from AWS Smithy model
