@@ -41,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/soto-project/soto-core.git",
       "state" : {
-        "revision" : "f8a8db612a6bca7a05f69e975464f7a841f43617",
-        "version" : "6.1.3"
+        "revision" : "84a53eaef17c29ec8eb14dfcee1e44d5880b85b7",
+        "version" : "6.3.0"
       }
     },
     {
