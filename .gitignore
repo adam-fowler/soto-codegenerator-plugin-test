@@ -3,6 +3,7 @@
 /Packages
 /*.xcodeproj
 /.vscode
+/.devcontainer
 xcuserdata/
 DerivedData/
 .swiftpm/config/registries.json
