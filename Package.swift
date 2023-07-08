@@ -7,7 +7,7 @@ let package = Package(
     name: "soto-codegenerator-plugin-test",
     platforms: [.macOS(.v10_15)],
     dependencies: [
-        .package(url: "https://github.com/soto-project/soto-codegenerator", branch: "feature/plugin"),
+        .package(url: "https://github.com/soto-project/soto-codegenerator", branch: "main"),
         .package(url: "https://github.com/soto-project/soto-core.git", from: "6.3.0")
     ],
     targets: [

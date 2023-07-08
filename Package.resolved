@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/hummingbird-project/hummingbird-mustache.git",
       "state" : {
-        "revision" : "f95e19206e2d1108e84736dca008389d4d5a6b6b",
-        "version" : "1.0.2"
+        "revision" : "fa5617622333da6334252a9d7e3633129b89120d",
+        "version" : "1.0.3"
       }
     },
     {
@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/soto-project/soto-codegenerator",
       "state" : {
-        "branch" : "feature/plugin",
-        "revision" : "c6423def5cb73303d48933a929e6c0732ddec00b"
+        "branch" : "main",
+        "revision" : "1a76a930928daff74c9921ae8d4da64455ac3810"
       }
     },
     {
@@ -142,15 +142,6 @@
       "state" : {
         "revision" : "c0d9a144cfaec8d3d596aadde3039286a266c15c",
         "version" : "1.15.0"
-      }
-    },
-    {
-      "identity" : "swiftformat",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/nicklockwood/SwiftFormat.git",
-      "state" : {
-        "revision" : "da637c398c5d08896521b737f2868ddc2e7996ae",
-        "version" : "0.50.6"
       }
     }
   ],
